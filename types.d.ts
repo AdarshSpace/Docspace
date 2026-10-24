@@ -1,10 +1,12 @@
-import { Connection } from 'mongoose';
+import type mongoose from "mongoose";
 
 declare global {
-    var mongooseCache: {
+  var mongooseCache:
+    | {
         conn: typeof mongoose | null;
         promise: Promise<typeof mongoose> | null;
-    } | undefined;
+      }
+    | undefined;
 }
 
-export {}
+export {};
