@@ -1,9 +1,17 @@
 # Docspace — Document Workspace
+<div align="center">
+  <img src="public/docspace-homepage.png" alt="Docspace Homepage" width="100%" />
+
 
 A web-based document workspace built with Next.js that allows authenticated users to create, edit, format, and share documents with other registered users.
 
-**Live Demo:** https://www.motionkart.online/  
-**GitHub Repository:** https://github.com/AdarshSpace/Docspace
+
+  **Live Demo:** [docspace-black.vercel.app](https://docspace-black.vercel.app)
+
+  **GitHub:** [AdarshSpace/Docspace](https://github.com/AdarshSpace/Docspace)
+</div>
+
+
 
 ---
 
